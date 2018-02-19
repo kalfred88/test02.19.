@@ -1,0 +1,28 @@
+table {
+    border: 2px solid royalblue;
+    text-align: left;
+    position: relative;
+    margin: 0 auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th {
+    background-color: #800080;
+    color: #ffddff;
+    text-align: center;
+    padding: 5px;
+}
+
+tr:nth-child(even) {
+    background-color: #9acd32;
+}
+
+td {
+    padding: 3px;
+}
+
+div {
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 700;
+}
